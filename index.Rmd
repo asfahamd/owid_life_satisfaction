@@ -138,7 +138,7 @@ window.onload = filter_default;
 
 Data source: World Happiness Report
 
-[OurWorldInData.org/happiness-and-life-satisfaction](https://ourworldindata.org/grapher/happiness-cantril-ladder) | CC BY
+[OurWorldInData.org/share-of-people-who-say-they-are-happy](https://ourworldindata.org/grapher/share-of-people-who-say-they-are-happy?tab=table#explore-the-data) | CC BY
 
 
 
